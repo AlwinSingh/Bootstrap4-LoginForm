@@ -1,5 +1,6 @@
 # Bootstrap4-LoginForm
-A Bootstrap 4 Login Form
+A quick Bootstrap 4 Login Form for fun! :)
 
 
-![Screenshot](img.png)
+![Screenshot](img.PNG)
+![Screenshot](img2.PNG)
